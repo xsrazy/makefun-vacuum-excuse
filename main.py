@@ -7,7 +7,7 @@ with no trailing newline.
 
 import os
 
-LINE = "I didn't miss that spot, I was giving it space. It looked like it needed time to process being dirty."
+LINE = "I didn't miss that crumb, I left it as a snack for later. A vacuum's gotta meal-prep too, you know."
 
 assert 1 <= len(LINE) <= 140, "line must be 1-140 characters"
 assert LINE.strip(), "line must not be blank"
